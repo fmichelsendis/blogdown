@@ -4,19 +4,4 @@ Version: 0.1
 Description: Fools travis into building blogdown website
 Encoding: UTF-8 
 Imports:
-    blogdown
-    data.table,
-    ggplot2, 
-    kableExtra,
-    knitr,
-    pkgdown,
-    plotly,
-    randomForest,
-    rattle,
-    rpart,
-    rpart.plot,
-    scales,
-    splitstackshape,
-    tidyr,
-    dplyr,
-    tidyverse 
+    blogdown  
