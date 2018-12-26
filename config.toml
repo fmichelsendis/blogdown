@@ -1,6 +1,6 @@
 baseurl = "http://example.org/"
 languageCode = "en-us"
-title = "Hugo Cards"
+title = "Sendis Blogdown"
 theme = "hugo-cards"
 paginate = 6
 
