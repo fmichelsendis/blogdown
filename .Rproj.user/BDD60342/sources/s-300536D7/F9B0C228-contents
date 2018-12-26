@@ -1,0 +1,16 @@
+baseurl = "http://sendislab.org/"
+languageCode = "en-us"
+title = "Sendis Blogdown"
+theme = "hugo-cards"
+paginate = 12
+
+[params]
+  builtBy = "bool"
+  defaultImage = "gopher.jpg"
+
+  github = "http://github.com/fmichelsendis/blogdown"
+
+  [params.copyright]
+     name = "Sendis"
+     link = "https://sendis.org"
+

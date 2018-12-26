@@ -1,0 +1,4 @@
+"0","kable(head(sendis))
+"
+"2","Error in kable(head(sendis)) : could not find function ""kable""
+"
