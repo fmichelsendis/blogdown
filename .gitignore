@@ -1,7 +1,5 @@
-inst/doc
+
 .Rproj.user
 .Rhistory
 .RData
 *.Rproj
-public/
-docs/
